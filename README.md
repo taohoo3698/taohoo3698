@@ -24,7 +24,8 @@
 </table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taohoo3698&show_icons=true&locale=en&layout=compact" alt="taohoo3698" /></p>
-<br>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taohoo3698&show_icons=true&locale=en" alt="taohoo3698" /></p>
 
 <h3 align="left">Github Stats</h3>
