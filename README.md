@@ -3,34 +3,8 @@
 
 <h3 align="left">About Me</h3>
 
+- Currently study in faculty of information technology university of KMUTT in Thailand
 - 📫 How to reach me - ampla14@gmail.com
-
-<h3 align="left">Languages and Tools:</h3>
-<table align="center">
-  <tr>
-    <td><img src="https://www.svgrepo.com/show/349418/java.svg" height="40" width="40" /></td>
-    <td><img src="https://www.svgrepo.com/show/354380/spring-icon.svg" height="40" width="40" /></td>
-    <td><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></td>
-    <td><img src="https://www.svgrepo.com/show/373623/git.svg" height="40" width="40" /></td>
-    <td><img src="https://www.svgrepo.com/show/331370/docker.svg" height="40" width="40" /></td>
-    <td><img src="https://www.svgrepo.com/show/353884/html-5.svg" height="40" width="40" /></td>
-    <td><img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" height="40" width="40" /></td>
-    <td><img src="https://www.svgrepo.com/show/355081/js.svg" height="40" width="40" /></td>
-    <td><img src="https://www.svgrepo.com/show/303494/vue-9-logo.svg" height="40" width="40" /></td>
-  </tr>
-</table>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taohoo3698&show_icons=true&locale=en&layout=compact" alt="taohoo3698" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taohoo3698&show_icons=true&locale=en" alt="taohoo3698" /></p>
-
-<h3 align="left">Github Stats</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taohoo3698" alt="taohoo3698" /></a> </p>
-
-
 
 
 <br>
