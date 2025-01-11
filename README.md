@@ -2,7 +2,7 @@
 
 <h3 align="left">About Me</h3>
 
-- Currently study in faculty of information technology university of KMUTT in Thailand
+- I'm new Graduation form faculty of information technology university of KMUTT in Thailand, Age 23 lookig for a job.
 - 📫 How to reach me - ampla14@gmail.com
 
 
